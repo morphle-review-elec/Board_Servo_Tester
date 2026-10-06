@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "KiCad-Waveshare-ESP32-main") (type "KiCad") (uri "${KIPRJMOD}/Libraries/KiCad-Waveshare-ESP32-main") (options "") (descr "") (disabled))
+	(lib (name "Waveshare-ESP32") (type "KiCad") (uri "${KIPRJMOD}/Libraries/KiCad-Waveshare-ESP32-main/Waveshare-ESP32.pretty") (options "") (descr ""))
+)
